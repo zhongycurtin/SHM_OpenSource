@@ -1,0 +1,188 @@
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 1.138947 R2: -2.729839
+Validation mse:1.138830 R2:-2.750996
+ Testing mse:1.139010 R2:-2.719810
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 3, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0}
+Original_Space: Training mse: 0.001617 R2: -2.657485
+Original_Space: Validation mse: 0.001614 R2: -2.684928
+Original_Space: Testing mse: 0.001618 R2: -2.642866
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.131483 R2: 0.947369
+Validation mse:0.131702 R2:0.935194
+ Testing mse:0.131925 R2:0.925496
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 256, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0}
+Original_Space: Training mse: 0.000023 R2: 0.948243
+Original_Space: Validation mse: 0.000028 R2: 0.936508
+Original_Space: Testing mse: 0.000033 R2: 0.926089
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.093615 R2: 0.977386
+Validation mse:0.093773 R2:0.968297
+ Testing mse:0.093907 R2:0.962530
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0}
+Original_Space: Training mse: 0.000010 R2: 0.977995
+Original_Space: Validation mse: 0.000013 R2: 0.969674
+Original_Space: Testing mse: 0.000016 R2: 0.963288
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.070055 R2: 0.982611
+Validation mse:0.070165 R2:0.976529
+ Testing mse:0.070178 R2:0.976109
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0}
+Original_Space: Training mse: 0.000007 R2: 0.983196
+Original_Space: Validation mse: 0.000010 R2: 0.977354
+Original_Space: Testing mse: 0.000010 R2: 0.977032
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.001091 R2: 0.951746
+Validation mse:0.001093 R2:0.946709
+ Testing mse:0.001097 R2:0.940217
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': False, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 300, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0}
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.000418 R2: 0.937276
+Validation mse:0.000420 R2:0.932030
+ Testing mse:0.000424 R2:0.926329
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': False, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0}
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.095497 R2: 0.970930
+Validation mse:0.095619 R2:0.964377
+ Testing mse:0.095667 R2:0.962908
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0}
+Original_Space: Training mse: 0.000012 R2: 0.972022
+Original_Space: Validation mse: 0.000015 R2: 0.965497
+Original_Space: Testing mse: 0.000016 R2: 0.963548
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.000408 R2: 0.102297
+Validation mse:0.000406 R2:0.098672
+ Testing mse:0.000416 R2:0.090882
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': False, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.000345 R2: 0.706969
+Validation mse:0.000344 R2:0.704929
+ Testing mse:0.000355 R2:0.685527
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': False, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.089797 R2: 0.963027
+Validation mse:0.089933 R2:0.955152
+ Testing mse:0.090115 R2:0.947234
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000016 R2: 0.963688
+Original_Space: Validation mse: 0.000019 R2: 0.956398
+Original_Space: Testing mse: 0.000023 R2: 0.947754
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.098014 R2: 0.974844
+Validation mse:0.098207 R2:0.964148
+ Testing mse:0.098283 R2:0.961681
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000011 R2: 0.975625
+Original_Space: Validation mse: 0.000015 R2: 0.965480
+Original_Space: Testing mse: 0.000017 R2: 0.962102
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.100269 R2: 0.977878
+Validation mse:0.100390 R2:0.971046
+ Testing mse:0.100474 R2:0.967746
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000008 R2: 0.978482
+Original_Space: Validation mse: 0.000010 R2: 0.972041
+Original_Space: Testing mse: 0.000011 R2: 0.968212
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.075524 R2: 0.974042
+Validation mse:0.075602 R2:0.969736
+ Testing mse:0.075685 R2:0.965894
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000009 R2: 0.974883
+Original_Space: Validation mse: 0.000010 R2: 0.970642
+Original_Space: Testing mse: 0.000012 R2: 0.966819
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.105445 R2: 0.966192
+Validation mse:0.105626 R2:0.956976
+ Testing mse:0.105746 R2:0.951307
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000012 R2: 0.966838
+Original_Space: Validation mse: 0.000015 R2: 0.957270
+Original_Space: Testing mse: 0.000017 R2: 0.951742
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.118710 R2: -0.100917
+Validation mse:0.118324 R2:-0.087860
+ Testing mse:0.118614 R2:-0.092176
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 100, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000393 R2: -0.096785
+Original_Space: Validation mse: 0.000386 R2: -0.086997
+Original_Space: Testing mse: 0.000391 R2: -0.086573
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.083404 R2: 0.964994
+Validation mse:0.083587 R2:0.954224
+ Testing mse:0.083682 R2:0.951201
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000012 R2: 0.965812
+Original_Space: Validation mse: 0.000016 R2: 0.956076
+Original_Space: Testing mse: 0.000017 R2: 0.951916
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.092543 R2: 0.974776
+Validation mse:0.092657 R2:0.968465
+ Testing mse:0.092694 R2:0.966965
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 500, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000013 R2: 0.975531
+Original_Space: Validation mse: 0.000016 R2: 0.969455
+Original_Space: Testing mse: 0.000017 R2: 0.968002
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.113816 R2: 0.963059
+Validation mse:0.113962 R2:0.954868
+ Testing mse:0.114009 R2:0.953591
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 300, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000013 R2: 0.964036
+Original_Space: Validation mse: 0.000016 R2: 0.956172
+Original_Space: Testing mse: 0.000016 R2: 0.954404
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.093474 R2: 0.964455
+Validation mse:0.093595 R2:0.957348
+ Testing mse:0.093792 R2:0.948982
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 300, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000019 R2: 0.965042
+Original_Space: Validation mse: 0.000022 R2: 0.958489
+Original_Space: Testing mse: 0.000027 R2: 0.949099
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.114361 R2: 0.960545
+Validation mse:0.114537 R2:0.950622
+ Testing mse:0.114739 R2:0.941535
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 300, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000014 R2: 0.961492
+Original_Space: Validation mse: 0.000017 R2: 0.952112
+Original_Space: Testing mse: 0.000021 R2: 0.942526
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.096271 R2: 0.952809
+Validation mse:0.096393 R2:0.945018
+ Testing mse:0.096596 R2:0.937294
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 300, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000025 R2: 0.953595
+Original_Space: Validation mse: 0.000028 R2: 0.946866
+Original_Space: Testing mse: 0.000034 R2: 0.937318
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.086799 R2: 0.972995
+Validation mse:0.086899 R2:0.967347
+ Testing mse:0.087023 R2:0.961738
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 300, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000009 R2: 0.973743
+Original_Space: Validation mse: 0.000011 R2: 0.968371
+Original_Space: Testing mse: 0.000013 R2: 0.962547
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.088126 R2: 0.973572
+Validation mse:0.088306 R2:0.963455
+ Testing mse:0.088416 R2:0.958647
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 300, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000014 R2: 0.974278
+Original_Space: Validation mse: 0.000019 R2: 0.964797
+Original_Space: Testing mse: 0.000022 R2: 0.959717
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.080913 R2: 0.971037
+Validation mse:0.080976 R2:0.967426
+ Testing mse:0.081093 R2:0.962362
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 300, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000010 R2: 0.971662
+Original_Space: Validation mse: 0.000011 R2: 0.968177
+Original_Space: Testing mse: 0.000013 R2: 0.962666
+Deep DenseNet-Bottleneck-Compressed Network-40-12-3 created.Test_Case: sub_tc
+ Training mse: 0.085071 R2: 0.980433
+Validation mse:0.085150 R2:0.976066
+ Testing mse:0.085193 R2:0.974109
+params:{'dir': '/data/run01/scv8518/JackieData', 'data_dir': '/data/run01/scv8518/JackieData', 'whitening': False, 'mapminmax': False, 'standardize': False, 'process_y': True, 'depth': 40, 'nb_dense_block': 3, 'growth_rate': 12, 'kernel': (2, 5), 'img_rows': 14, 'img_cols': 331, 'channels': 9, 'classes': 70, 'bottleneck': True, 'reduction': 0.0, 'trans_filter': (2, 2), 'init_kernel': (1, 15), 'init_stride': (1, 5), 'n_epoch': 300, 'l2_wd': 0.0005, 'l1_sr': 0, 'lr': 0.0001, 'batch_size': 128, 'activation': None, 'max_pool': False, 'y_sc': None, 'tc': 'SingleEConvNets', 'sub_tc': 'sub_tc', 'noise_type': 'None', 'data_type': 'Acc', 'duration': '0.5sec', 'num_sensors': 9, 'damage_case': 'SingleE', 'split_test': True, 'dr': 0.0, 'uncertainty': 0.1}
+Original_Space: Training mse: 0.000010 R2: 0.981028
+Original_Space: Validation mse: 0.000012 R2: 0.976817
+Original_Space: Testing mse: 0.000013 R2: 0.974962
